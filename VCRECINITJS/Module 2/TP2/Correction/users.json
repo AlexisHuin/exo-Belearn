@@ -1,8 +1,0 @@
-{
-    "users" : [
-        {"nom" : "Alain", "age" : 35, "ville" : "Rennes"},
-        {"nom" : "Michel", "age" : 58, "ville" : "Nantes"},
-        {"nom" : "Boris", "age" : 19, "ville" : "Quimper"}      
-
-    ]
-}
